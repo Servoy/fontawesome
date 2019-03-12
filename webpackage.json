@@ -1,0 +1,12 @@
+{
+    "name":"fontawesome",
+    "displayName":"Font Awesome",
+    "packageType": "Web-Service",
+    "icon": "https://raw.githubusercontent.com/Servoy/fontawesome/master/font_awesome_logo.png",
+    "description": "Helper service to include Font Awesome CSS",
+    "wikiUrl": "https://github.com/Servoy/fontawesome/wiki",
+    "sourceUrl" : "https://github.com/Servoy/fontawesome",
+    "releases" : [
+        {"version":"4.7.0","url":"https://github.com/Servoy/fontawesome/releases/download/v4.7.0/fontawesome.zip", "servoy-version":"8.4.0"}
+    ]
+}
