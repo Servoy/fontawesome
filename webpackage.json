@@ -8,6 +8,7 @@
     "sourceUrl" : "https://github.com/Servoy/fontawesome",
     "releases" : [
         {"version":"4.7.0","url":"https://github.com/Servoy/fontawesome/releases/download/v4.7.0/fontawesome.zip", "servoy-version":"8.4.0"},
-        {"version":"5.7.2","url":"https://github.com/Servoy/fontawesome/releases/download/v5.7.2/fontawesome.zip", "servoy-version":"8.4.0"}
+        {"version":"5.7.2","url":"https://github.com/Servoy/fontawesome/releases/download/v5.7.2/fontawesome.zip", "servoy-version":"8.4.0"},
+        {"version":"5.14.0","url":"https://github.com/Servoy/fontawesome/releases/download/v5.14.0/fontawesome.zip", "servoy-version":"8.4.0"}
     ]
 }
