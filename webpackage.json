@@ -3,7 +3,7 @@
     "displayName":"Font Awesome",
     "packageType": "Web-Service",
     "icon": "https://raw.githubusercontent.com/Servoy/fontawesome/master/font_awesome_logo.png",
-    "description": "Helper service to include Font Awesome CSS",
+    "description": "Helper service to include Font Awesome CSS into NG Client solutions. Call plugins.fontawesomeLib.load() in the solution's onOpen handler (to make the war export process see that it is used).'",
     "wikiUrl": "https://github.com/Servoy/fontawesome/wiki",
     "sourceUrl" : "https://github.com/Servoy/fontawesome",
     "releases" : [
